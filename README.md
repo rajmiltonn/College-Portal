@@ -3,7 +3,7 @@
 ## Overview
 ![College Website](https://github.com/user-attachments/assets/college-website.jpg)
 
-Welcome to the **College Website**, a comprehensive platform designed to provide students with easy access to academic resources and information. Our site features a user-friendly interface developed using JSP (Java) for the frontend and MySQL Server for the backend..
+Welcome to the **College Website**, a comprehensive platform designed to provide students with easy access to academic resources and information. Our site features a user-friendly interface developed using JSP (Java) for the frontend and MySQL Server for the backend...
 
 ## Features
 
